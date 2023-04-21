@@ -3,7 +3,7 @@
 #install libraries cv2 and mediapipe
 
 Using terminal 
-pip install OpenCV
+pip install opencv-python
 pip install mediapipe
 
 
